@@ -1,0 +1,9 @@
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.19.2
+Pillow>=8.3.1
+tqdm>=4.62.2
+matplotlib>=3.4.3
+trimesh>=3.9.29
+scikit-image>=0.18.3
+
